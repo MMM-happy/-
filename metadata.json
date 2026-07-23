@@ -1,0 +1,6 @@
+{
+  "name": "寵物溫馨認養家園 PawHaven",
+  "description": "一個活潑溫馨的多頁式寵物認養平台，提供犬貓詳細資訊、個性描述、健康狀態、線上認養申請與諮詢服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
